@@ -4,6 +4,8 @@
 
 A Cog model that generates abstract expressionist paintings featuring prominent vertical "zip" lines over large color fields. This model specializes in creating hard-edge compositions where bold vertical bands divide and define color spaces, exploring the dynamic tension between division and unity.
 
+[Try on Replicate](https://replicate.com/detekoi/color-field-zips)
+
 ## Features
 
 - **Prominent Zip Lines**: Creates bold vertical bands that serve as both divisions and connections between color areas
