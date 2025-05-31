@@ -1,4 +1,4 @@
-![Sample Output](./@sample.png)
+![Sample Output](assets/sample.png)
 
 # Zip Line Color Field Generator
 
